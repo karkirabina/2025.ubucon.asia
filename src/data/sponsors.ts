@@ -217,6 +217,7 @@ export const sponsors = [
       },
       {
         name: "Techaxis",
+        partnerTag: "-Training Partner",
         logoUrl: techaxis.src,
         url: "https://techaxis.com.np/",
         description:
